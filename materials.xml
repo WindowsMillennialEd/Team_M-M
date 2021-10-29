@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="1" name="19.75% Fuel" volume="12566.370614359173">
+    <density units="g/cm3" value="6.4168737" />
+    <nuclide ao="1.999242" name="O16" />
+    <nuclide ao="2.659315563729704e+22" name="Zr90" />
+    <nuclide ao="5.799323736646701e+21" name="Zr91" />
+    <nuclide ao="8.864385212432348e+21" name="Zr92" />
+    <nuclide ao="8.983266180295872e+21" name="Zr94" />
+    <nuclide ao="1.4472465652950772e+21" name="Zr96" />
+    <nuclide ao="8.728637202438101e+20" name="U235" />
+    <nuclide ao="3.5019931250181795e+21" name="U238" />
+    <nuclide ao="1.5910084577322137e+22" name="C0" />
+    <nuclide ao="1.8409105972980206e+23" name="H1" />
+    <nuclide ao="2.8674807456832696e+19" name="H2" />
+    <nuclide ao="6.1148434649882944e+22" name="N14" />
+    <nuclide ao="2.24810195869993e+20" name="N15" />
+    <nuclide ao="0.000758" name="O17" />
+    <sab fraction="0.425" name="c_Graphite" />
+  </material>
+  <material id="3" name="Reflector">
+    <density units="g/cm3" value="3.02" />
+    <nuclide ao="0.999621" name="O16" />
+    <nuclide ao="1.0" name="Be9" />
+    <nuclide ao="0.000379" name="O17" />
+    <sab name="c_Be" />
+  </material>
+</materials>
