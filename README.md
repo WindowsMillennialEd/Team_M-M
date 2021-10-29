@@ -1,2 +1,3 @@
-# Team_M-M
-KRG Space Applications Project
+# Team M&M
+KRG Space Applications Project #1
+Creators: Melissa and Maddy
